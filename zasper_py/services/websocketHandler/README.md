@@ -1,0 +1,1 @@
+https://github.com/jupyter-server/jupyter_server/blob/b85c15b5678cd6ea9de28e4f547bc0dfef0a69c7/jupyter_server/services/kernels/connection/channels.py#L233
